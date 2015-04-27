@@ -1,0 +1,57 @@
+body{
+	
+
+}
+div{
+ 	width: 1200px;
+
+}
+header{
+	border: 2px solid black;
+	height: 100px;
+
+}
+section nav{
+ 	border: 2px solid black;
+ 	float: left;
+ 	width: 200px;
+ 	height: auto;
+}
+section nav ul{
+	list-style-type: none;
+	font-family: monospace;
+}
+section nav li{
+	
+		
+}
+a:link, a:visited, a:active{
+	color: green;
+	text-decoration: none;
+
+}
+a:hover{
+	color:red;
+	font-size: 130%;
+}
+section article{
+	border: 2px solid black;
+	float: left;
+	width: 778px;
+	height: auto;
+}
+section article ul{
+	list-style-type: square;
+}
+section aside{
+	border: 2px solid black;
+	float: left;
+	width: 210px;
+	height: auto;	
+}
+footer{
+	border: 2px solid black;
+	clear: left;
+	height: 100px;
+
+}
